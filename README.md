@@ -2,83 +2,117 @@
 
 # 🌙 Moonlight
 
-### El software debería adaptarse a las personas, no las personas al software.
+### Iluminando el siguiente paso.
 
-<br>
-
-Construyendo la próxima generación de asistentes de inteligencia artificial enfocados en la **experiencia humana, productividad e interacción inteligente**.
-
-<br>
+Construyendo la próxima generación de asistentes de inteligencia artificial enfocados en la experiencia humana, la productividad y una interacción más natural.
 
 </div>
 
 ---
 
-## 👋 Hola, soy Fabián Prado
+# 🌙 Manifiesto de Moonlight
+
+Moonlight nació de un sueño.
+
+El sueño de crear un asistente que no se limitara a responder preguntas, sino que ayudara a descubrir respuestas, desarrollar ideas y crecer junto a quienes lo usan.
+
+No para hacer las cosas por ti.
+
+Sino para ayudarte a llegar más lejos.
+
+Como la luz de la luna...
+
+Nunca pretende reemplazar al sol.
+
+Solo aparece cuando más la necesitas.
+
+No ilumina todo el camino.
+
+Solo lo suficiente para ayudarte a dar el siguiente paso.
+
+**Así nació Moonlight.**
+
+---
+
+# 👋 Hola, soy Fabián Prado
 
 Soy desarrollador y creador de **Moonlight**.
 
-Me apasiona crear tecnología que se sienta natural, intuitiva y humana. Mi objetivo es desarrollar herramientas que comprendan a las personas y se adapten a sus necesidades, en lugar de obligarlas a cambiar su forma de trabajar.
+Me apasiona crear tecnología que se sienta natural, intuitiva y humana.
+
+Creo que el software no debería obligarnos a cambiar nuestra forma de trabajar.
+
+Debería comprendernos, adaptarse a nosotros y ayudarnos a alcanzar nuestro máximo potencial.
 
 Actualmente estoy enfocado en:
 
-* 🌙 Construir **Moonlight**
-* 🤖 Explorar sistemas de inteligencia artificial
-* 🧠 Diseñar mejores experiencias entre humanos y tecnología
-* 🚀 Crear software escalable y centrado en el usuario
+- 🌙 Construir Moonlight.
+- 🤖 Investigar inteligencia artificial y asistentes inteligentes.
+- 🧠 Diseñar experiencias centradas en las personas.
+- 🚀 Crear software escalable y de alta calidad.
 
 ---
 
-## 🌙 ¿Qué es Moonlight?
+# 🌙 ¿Qué es Moonlight?
 
-Moonlight nace de una idea simple:
+Moonlight nace de una idea muy simple:
 
-> La mejor tecnología es aquella que se siente invisible.
+> **La mejor tecnología es aquella que se siente invisible.**
 
-Es un asistente de inteligencia artificial diseñado para acompañar al usuario, comprender el contexto y facilitar tareas mediante una interacción más natural.
+Más que un chatbot, Moonlight busca convertirse en un compañero inteligente.
 
-Más que un chatbot, Moonlight busca convertirse en una experiencia inteligente capaz de adaptarse a cada persona.
+Un asistente capaz de comprender el contexto, adaptarse a cada persona y hacer que interactuar con la inteligencia artificial se sienta natural.
+
+No pretende responder todas las preguntas.
+
+Pretende ayudarte a descubrir mejores respuestas.
 
 ---
 
-## 🛠 Tecnologías
+# 🛠 Tecnologías
 
-Tecnologías con las que trabajo:
+Actualmente trabajo con:
 
 <div align="center">
 
-JavaScript • TypeScript • React • Node.js • Electron • Python • Inteligencia Artificial
+JavaScript • TypeScript • React • Node.js • Electron • Python • IA
 
 </div>
 
 ---
 
-## 🚀 Proyecto Principal
+# 🚀 Proyecto Principal
 
-### 🌙 Moonlight
+## 🌙 Moonlight
 
 El proyecto central de mi ecosistema.
 
-Un asistente de IA enfocado en:
+Actualmente estoy construyendo un asistente de inteligencia artificial enfocado en:
 
-* Conversaciones naturales
-* Productividad
-* Automatización
-* Personalización
-* Experiencias digitales más humanas
-
----
-
-## ✨ Filosofía
-
-El futuro del software no se trata solamente de crear tecnología más poderosa.
-
-Se trata de crear experiencias más simples, más humanas y más intuitivas.
+- 💬 Conversaciones naturales.
+- ⚡ Productividad.
+- 🤖 Automatización.
+- 🎯 Personalización.
+- ✨ Experiencias digitales más humanas.
 
 ---
 
-## 📫 Contacto
+# ✨ Filosofía
+
+No creo que el futuro del software consista únicamente en desarrollar modelos más inteligentes.
+
+Creo que el verdadero reto es construir experiencias que se sientan naturales.
+
+Experiencias donde la tecnología deje de ser un obstáculo y se convierta en una extensión de las personas.
+
+Porque...
+
+> **No para hacer las cosas por ti.**
+>
+> **Sino para ayudarte a llegar más lejos.**
+
+---
+
+# 📫 Contacto
 
 Próximamente...
-
-</div>
