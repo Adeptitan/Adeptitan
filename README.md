@@ -44,14 +44,18 @@ Creo que el software no debería obligarnos a cambiar nuestra forma de trabajar.
 
 Debería comprendernos, adaptarse a nosotros y ayudarnos a alcanzar nuestro máximo potencial.
 
-Actualmente estoy enfocado en:
+---------
 
-- 🌙 Construir Moonlight.
-- 🤖 Investigar inteligencia artificial y asistentes inteligentes.
-- 🧠 Diseñar experiencias centradas en las personas.
-- 🚀 Crear software escalable y de alta calidad.
+Actualmente construyendo
 
----
+🌙 Moonlight
+
+🤖 Arquitecturas de IA
+
+💻 Aplicaciones Desktop
+
+✨ Experiencias centradas en el usuario
+---------
 
 # 🌙 ¿Qué es Moonlight?
 
