@@ -1,12 +1,25 @@
 <div align="center">
 
-# 🌙 Moonlight
+<img src="assets/banner.png" alt="Moonlight Banner" width="100%">
 
-### Iluminando el siguiente paso.
+<br>
 
-Construyendo la próxima generación de asistentes de inteligencia artificial enfocados en la experiencia humana, la productividad y una interacción más natural.
+## Construyendo Moonlight.
+
+> *La inteligencia artificial no debería reemplazarte.*  
+> **Debería ayudarte a llegar más lejos.**
 
 </div>
+
+---
+
+## Fabián Prado
+
+Soy desarrollador de software y creador de **Moonlight**, un asistente de inteligencia artificial diseñado para potenciar a las personas, no reemplazarlas.
+
+Creo que el futuro de la IA no depende únicamente de modelos más inteligentes, sino de experiencias más humanas, intuitivas y privadas.
+
+Actualmente dedico mi tiempo a construir Moonlight con esa visión.
 
 ---
 
