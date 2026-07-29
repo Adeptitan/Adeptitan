@@ -9,6 +9,12 @@
 > *La inteligencia artificial no debería reemplazarte.*  
 > **Debería ayudarte a llegar más lejos.**
 
+<p align="center">
+  <a href="https://github.com/Adeptitan">
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 </div>
 
 ---
